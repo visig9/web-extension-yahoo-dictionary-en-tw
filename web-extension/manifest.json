@@ -1,10 +1,10 @@
 {
 
   "manifest_version": 2,
-  "name": "yahoo-dictionary-tw-en",
-  "version": "1.0",
+  "name": "yahoo-dictionary-en-tw",
+  "version": "1.1",
 
-  "description": "Adds yahoo dictionary (tw -> en) as a search engine.",
+  "description": "Adds yahoo dictionary (en -> tw) as a search engine.",
 
   "icons": {
     "32": "icons/yahoo-32.png"
@@ -15,7 +15,7 @@
 			"favicon_url": "https://tw.dictionary.search.yahoo.com/favicon.ico",
 			"is_default": false,
 			"keyword": "yd",
-			"name": "Yahoo Dictionary (tw -> en)",
+			"name": "Yahoo Dictionary (en -> tw)",
 			"search_url": "https://tw.dictionary.search.yahoo.com/search",
 			"search_url_get_params": "p={searchTerms}"
 		}

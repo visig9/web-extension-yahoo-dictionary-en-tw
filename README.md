@@ -1,3 +1,3 @@
-# web-extension-yahoo-dictionary-tw-en
+# web-extension-yahoo-dictionary-en-tw
 
-This extension add Yahoo Dictionary (tw-en) as a search engine.
+This extension add Yahoo Dictionary (en -> tw) as a search engine.
